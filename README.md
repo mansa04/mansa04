@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansa04&label=Profile%20views&color=0e75b6&style=flat" alt="mansa04" /> </p>
 
-- I’m currently working on **Django,.net, html, css, javascript**
+- I’m currently working on **Django, Python, Java, html, css, javascript**
 
 - 📫 How to reach me **26dmanasa@gmail.com**
 
